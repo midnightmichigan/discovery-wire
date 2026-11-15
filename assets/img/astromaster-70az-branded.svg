@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#101c2c"/>
+<g fill="#f4f7fa">
+<circle cx="90" cy="60" r="2.4"/><circle cx="210" cy="110" r="1.8"/><circle cx="330" cy="45" r="2.2"/>
+<circle cx="470" cy="90" r="1.6"/><circle cx="590" cy="40" r="2.4"/><circle cx="700" cy="120" r="1.8"/>
+<circle cx="150" cy="170" r="1.5"/><circle cx="640" cy="180" r="1.5"/><circle cx="40" cy="140" r="1.7"/>
+<circle cx="760" cy="60" r="2.0"/><circle cx="520" cy="150" r="1.4"/><circle cx="280" cy="150" r="1.4"/>
+</g>
+<circle cx="668" cy="86" r="34" fill="#e8eef4"/>
+<circle cx="656" cy="76" r="7" fill="#c9d6e2"/><circle cx="680" cy="98" r="5" fill="#c9d6e2"/><circle cx="676" cy="66" r="4" fill="#c9d6e2"/>
+<g transform="rotate(-24 400 210)">
+<rect x="215" y="188" width="330" height="44" rx="22" fill="#2b5ea7"/>
+<rect x="215" y="188" width="60" height="44" rx="22" fill="#d64541"/>
+<rect x="520" y="196" width="42" height="28" rx="6" fill="#3d5265"/>
+<rect x="300" y="172" width="46" height="16" rx="6" fill="#3d5265"/>
+</g>
+<g stroke="#8fa5b1" stroke-width="9" stroke-linecap="round">
+<path d="M392 268 L318 402"/><path d="M408 268 L482 402"/><path d="M400 268 L400 402"/>
+</g>
+<rect x="368" y="238" width="64" height="34" rx="8" fill="#e8a13a"/>
+<rect x="0" y="404" width="800" height="46" fill="#0a1420"/>
+<text x="30" y="434" font-family="Georgia, serif" font-size="21" fill="#f4f7fa" letter-spacing="3">THE DISCOVERY WIRE</text>
+<text x="770" y="434" font-family="Georgia, serif" font-size="15" fill="#8fa5b1" text-anchor="end">GEAR GUIDE</text>
+</svg>
