@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#eef4f6"/>
+<g stroke="#c9d8df" stroke-width="2">
+<path d="M0 75 H800 M0 150 H800 M0 225 H800 M0 300 H800 M0 375 H800"/>
+<path d="M100 0 V450 M200 0 V450 M300 0 V450 M400 0 V450 M500 0 V450 M600 0 V450 M700 0 V450"/>
+</g>
+<g>
+<rect x="120" y="120" width="150" height="60" rx="12" fill="#d64541"/>
+<rect x="330" y="120" width="90" height="60" rx="12" fill="#2e7d4f"/>
+<rect x="480" y="120" width="150" height="60" rx="12" fill="#2b5ea7"/>
+<rect x="180" y="255" width="110" height="60" rx="12" fill="#e8a13a"/>
+<rect x="420" y="255" width="170" height="60" rx="12" fill="#7a4fa3"/>
+</g>
+<g fill="#f7f9fb" stroke="#8fa5b1" stroke-width="3">
+<circle cx="145" cy="150" r="11"/><circle cx="245" cy="150" r="11"/>
+<circle cx="350" cy="150" r="11"/><circle cx="400" cy="150" r="11"/>
+<circle cx="505" cy="150" r="11"/><circle cx="605" cy="150" r="11"/>
+<circle cx="205" cy="285" r="11"/><circle cx="265" cy="285" r="11"/>
+<circle cx="445" cy="285" r="11"/><circle cx="565" cy="285" r="11"/>
+</g>
+<g transform="translate(672 268)">
+<circle r="16" fill="#3d5265"/>
+<path d="M0 0 L52 -20 A54 54 0 0 1 30 16 Z" fill="#d64541"/>
+<path d="M0 0 L-14 52 A54 54 0 0 1 -44 -6 Z" fill="#d64541"/>
+<path d="M0 0 L-40 -38 A54 54 0 0 1 14 -34 Z" fill="#d64541"/>
+</g>
+<circle cx="672" cy="140" r="17" fill="#f2c230" stroke="#c9930a" stroke-width="3"/>
+<path d="M665 132 L672 122 L679 132 M672 122 V112" stroke="#c9930a" stroke-width="3" fill="none"/>
+<text x="400" y="52" text-anchor="middle" font-family="Georgia,serif" font-size="30" fill="#0b3d5c" letter-spacing="3">THE DISCOVERY WIRE</text>
+<text x="400" y="424" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="17" fill="#5a6f7d" letter-spacing="2">GEAR GUIDE &middot; STEM KITS FOR KIDS</text>
+</svg>
