@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#10151d"/>
+<rect x="430" y="90" width="340" height="430" rx="12" fill="#274b63"/>
+<rect x="462" y="90" width="26" height="430" fill="#1a3547"/>
+<circle cx="475" cy="160" r="7" fill="#10151d"/><circle cx="475" cy="250" r="7" fill="#10151d"/><circle cx="475" cy="340" r="7" fill="#10151d"/><circle cx="475" cy="430" r="7" fill="#10151d"/>
+<path d="M600 170 l70 22 v55 c0 48 -30 78 -70 95 c-40 -17 -70 -47 -70 -95 v-55 z" fill="#c94f42"/>
+<rect x="585" y="215" width="30" height="70" fill="#e8e4da"/>
+<rect x="565" y="235" width="70" height="30" fill="#e8e4da"/>
+<rect x="540" y="360" width="120" height="16" fill="#e8e4da" opacity="0.7"/>
+<rect x="540" y="392" width="120" height="16" fill="#e8e4da" opacity="0.45"/>
+<text x="600" y="580" font-family="Georgia, serif" font-size="30" fill="#e8e4da" text-anchor="middle" letter-spacing="4">THE DISCOVERY WIRE</text>
+</svg>
