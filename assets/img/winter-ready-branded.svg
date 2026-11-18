@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#10151d"/>
+<g fill="#e8e4da">
+<circle cx="120" cy="70" r="4"/><circle cx="300" cy="120" r="3"/><circle cx="520" cy="60" r="4"/>
+<circle cx="760" cy="100" r="3"/><circle cx="980" cy="60" r="4"/><circle cx="1100" cy="140" r="3"/>
+<circle cx="200" cy="200" r="3"/><circle cx="880" cy="190" r="4"/><circle cx="60" cy="300" r="3"/>
+<circle cx="1140" cy="300" r="3"/><circle cx="430" cy="150" r="3"/><circle cx="660" cy="170" r="3"/>
+</g>
+<g>
+<polygon points="180,330 360,190 540,330" fill="#c9a86a"/>
+<rect x="215" y="330" width="290" height="180" fill="#e8e4da"/>
+<rect x="330" y="400" width="60" height="110" fill="#274b63"/>
+<rect x="245" y="355" width="55" height="55" fill="#274b63"/>
+<rect x="420" y="355" width="55" height="55" fill="#274b63"/>
+<polygon points="165,332 360,182 555,332 540,332 360,200 180,332" fill="#f4f1e8"/>
+<rect x="348" y="230" width="24" height="52" fill="#8a6f3e"/>
+</g>
+<g>
+<rect x="640" y="420" width="330" height="62" rx="16" fill="#274b63"/>
+<polygon points="700,420 745,378 880,378 925,420" fill="#274b63"/>
+<rect x="758" y="388" width="48" height="30" fill="#e8e4da"/>
+<rect x="818" y="388" width="48" height="30" fill="#e8e4da"/>
+<circle cx="715" cy="486" r="30" fill="#e8e4da"/>
+<circle cx="715" cy="486" r="14" fill="#10151d"/>
+<circle cx="905" cy="486" r="30" fill="#e8e4da"/>
+<circle cx="905" cy="486" r="14" fill="#10151d"/>
+<rect x="640" y="438" width="330" height="10" fill="#c9a86a"/>
+</g>
+<rect x="0" y="510" width="1200" height="120" fill="#e8e4da"/>
+<text x="600" y="580" font-family="Georgia, serif" font-size="30" fill="#274b63" text-anchor="middle">Winter-Ready Family &#8212; The Discovery Wire</text>
+</svg>
