@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url><loc>https://midnightmichigan.github.io/discovery-wire/</loc><lastmod>2026-11-23</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://midnightmichigan.github.io/discovery-wire/about.html</loc><lastmod>2026-11-23</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://midnightmichigan.github.io/discovery-wire/archive.html</loc><lastmod>2026-11-23</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://midnightmichigan.github.io/discovery-wire/tip.html</loc><lastmod>2026-11-23</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
-  <url><loc>https://midnightmichigan.github.io/discovery-wire/contact.html</loc><lastmod>2026-11-23</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://midnightmichigan.github.io/discovery-wire/</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://midnightmichigan.github.io/discovery-wire/about.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://midnightmichigan.github.io/discovery-wire/archive.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://midnightmichigan.github.io/discovery-wire/tip.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://midnightmichigan.github.io/discovery-wire/contact.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://midnightmichigan.github.io/discovery-wire/articles/escapade-earth-flyby-photo.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><image:image><image:loc>https://midnightmichigan.github.io/discovery-wire/assets/img/escapade-earth-vis-color.jpg</image:loc></image:image></url>
   <url><loc>https://midnightmichigan.github.io/discovery-wire/articles/ngc3227-black-hole-blink.html</loc><lastmod>2026-11-23</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><image:image><image:loc>https://midnightmichigan.github.io/discovery-wire/assets/img/ngc3227-black-hole-blink-branded.jpg</image:loc></image:image></url>
   <url><loc>https://midnightmichigan.github.io/discovery-wire/articles/alma-dying-star-last-gasps.html</loc><lastmod>2026-11-22</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><image:image><image:loc>https://midnightmichigan.github.io/discovery-wire/assets/img/alma-dying-star-iras06530.jpg</image:loc></image:image></url>
   <url><loc>https://midnightmichigan.github.io/discovery-wire/articles/curiosity-twilight-clouds.html</loc><lastmod>2026-11-20</lastmod><changefreq>weekly</changefreq><priority>0.8</priority><image:image><image:loc>https://midnightmichigan.github.io/discovery-wire/assets/img/curiosity-twilight-clouds-pia26805.jpg</image:loc></image:image></url>
